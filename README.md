@@ -2,7 +2,7 @@
 
 Just like the `SensioFrameworkExtraBundle` this bundle adds extra features on top of existing in the Symfony `FrameworkBundle`. The main aim of this bundle is to facilitate the request/response operations.
 
-![Build Status](https://github.com/piku235/JungiFrameworkExtraBundle/actions/workflows/continuous-integration.yml/badge.svg)
+[![Continuous Integration](https://github.com/piku235/JungiFrameworkExtraBundle/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/piku235/JungiFrameworkExtraBundle/actions/workflows/continuous-integration.yml)
 
 Attributes (aka annotations):
 
